@@ -1,5 +1,6 @@
 package ClothingStore;
 
+
 public class ShippingInfo {
     private String address;
     private String contactDetails;

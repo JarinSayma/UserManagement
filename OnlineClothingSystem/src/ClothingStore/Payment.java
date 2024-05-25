@@ -1,4 +1,6 @@
 package ClothingStore;
+
+
 public class Payment {
     private double amount;
     private String method;

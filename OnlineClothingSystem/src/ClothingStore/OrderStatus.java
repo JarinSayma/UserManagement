@@ -1,5 +1,7 @@
 package ClothingStore;
 
+
+
 public interface OrderStatus {
-    void processOrder(Order order);
+    void handle(OrderContext context);
 }
