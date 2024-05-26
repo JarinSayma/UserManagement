@@ -88,7 +88,7 @@ public class UserManagerTest {
         // Place order for testUser
         Order order = testUser.placeOrder();
         
-        // Assertions
+        // Assertions .
         assertNotNull(order);
         assertEquals(1, order.getItems().size());
         assertEquals(mockItem, order.getItems().get(0));
