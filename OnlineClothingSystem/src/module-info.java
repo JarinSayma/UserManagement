@@ -5,5 +5,7 @@
  * 
  */
 module OnlineClothingSystem {
+	requires junit;
+
 	
 }
